@@ -2,11 +2,6 @@
 # It is basic python program for voice assistance.
 # Python code for voice assistant:
 
-
-
-
-
-
 import sys
 import speech_recognition as sr
 import pyttsx3
