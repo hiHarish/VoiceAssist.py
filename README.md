@@ -1,6 +1,12 @@
 # VoiceAssist.py
 # It is basic python program for voice assistance.
 # Python code for voice assistant:
+
+
+
+
+
+
 import sys
 import speech_recognition as sr
 import pyttsx3
@@ -66,6 +72,4 @@ def cmd():
 
 greet()
 while True:
-    #engine.say("how i can assist you?")
-    #engine.runAndWait()
     cmd()
